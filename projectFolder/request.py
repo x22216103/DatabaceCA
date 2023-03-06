@@ -1,0 +1,1 @@
+WEATHERAPI= 'https://www.ncei.noaa.gov/cdo-web/api/v2/locations'
